@@ -16,14 +16,14 @@ This project describes a method of implementing two factor authentication using 
 ?If anybody wants to use a computer of another employee then also without that employee permission with the help of mobile message nobody can access that machine.
 
 Architectural Design
- ![alt tag](https://raw.github.com/RCID-1067/1067_Android based Total security for system authentication/master/Screens/1.png)
+ ![alt tag](https://raw.github.com/SafaHamdare/1067_Android based Total security for system authentication/master/Screens/1.png)
 
 User Interface Design:
-  ![alt tag](https://raw.github.com/RCID-1067/1067_Android based Total security for system authentication/master/Screens/2.png)
+  ![alt tag](https://raw.github.com/SafaHamdare/1067_Android based Total security for system authentication/master/Screens/2.png)
 
-![alt tag](https://raw.github.com/RCID-1067/1067_Android based Total security for system authentication/master/Screens/3.png)
+![alt tag](https://raw.github.com/SafaHamdare/1067_Android based Total security for system authentication/master/Screens/3.png)
 
-![alt tag](https://raw.github.com/RCID-1067/1067_Android based Total security for system authentication/master/Screens/4.png)
+![alt tag](https://raw.github.com/SafaHamdare/1067_Android based Total security for system authentication/master/Screens/4.png)
 
  8. Usage (add instruction on how to use the app, or you can redirect to
 External link if you have one):-
